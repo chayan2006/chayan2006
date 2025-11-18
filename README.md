@@ -1,144 +1,102 @@
-<!-- CYBERPUNK HEADER -->
+<!-- ================== CYBER NEON PROFILE README ================== -->
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV4bnZ4MmIybjg3d3k2eHR3eHk2eHR3eHk2eHR3eHk2eHR3eHk2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uNvXBlop4OLDAkwoUS/giphy.gif" width="100%" height="180" style="object-fit: cover; border-radius: 10px; border: 2px solid #F40CF4;" />
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D00FFFF%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DSYSTEM_INIT_...;⚡+Chayan+Khatua+%7C+chayan2006;DEVELOPER_MODE:+ON;Future+AI+%26+ML+Engineer;Welcome+to+the+Cyberverse+💜" />
-</div>
-
-<!-- 3D TROPHIES & AVATAR -->
-
-<div align="center">
-
-
-
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dchayan2006%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15" width="800" />
-</a>
-</div>
-
-<!-- ABOUT ME SECTION (SIDE BY SIDE) -->
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" valign="center" style="border: none;">
-<h2 align="left">💜 🌙 <span style="color:#F40CF4">Identity::</span><span style="color:#00FFFF">About_Me</span></h2>
-<p>
-⚡ <b>Status:</b> Cyberpunk Learner | Future AI Engineer
-
-
-
-
-💜 <b>Drive:</b> Python, Web Dev, Machine Learning & Sci-Fi Tech
-
-
-
-
-🌌 <b>Mission:</b> Building skills daily with <b>100% consistency</b>.
-
-
-
-
-
-
-> <i>"The future is already here, it's just not evenly distributed."</i>
+<!-- --------- Glitch typing + animated GIF header --------- -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=FF00FF&center=true&vCenter=true&width=820&lines=⚡+Chayan+Khatua+%7C+chayan2006+⚡;Full-Stack+%2F+AI+%2F+Cyber+Learner;Hack+the+web+with+neon+vibes...+💜" alt="typing" />
 </p>
 
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mood-NEON_MODE-00FFFF%3Fstyle%3Dfor-the-badge%26labelColor%3D000000%26logo%3Dsparkles" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Focus-MAXIMUM-F40CF4%3Fstyle%3Dfor-the-badge%26labelColor%3D000000%26logo%3Dtarget" />
-</td>
-<td width="50%" align="center" style="border: none;">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/L9BR6nS3c7vsQ/giphy.gif" width="90%" style="border-radius: 10px; box-shadow: 0 0 15px #F40CF4;" />
-</td>
-</tr>
-</table>
-
-<!-- TECH STACK (ANIMATED ICONS) -->
-
-<div align="center">
-<h2>⚙️ <span style="color:#00FFFF">Tech_Stack</span> & <span style="color:#F40CF4">Tools</span></h2>
-<p>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,html,css,js,git,github,vscode,replit,md%26theme%3Ddark%26perline%3D9" />
-</a>
+<p align="center">
+  <!-- Glitch / matrix animated GIF -->
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vCve/giphy.gif" alt="glitch" width="560" style="border-radius:12px; box-shadow:0 6px 30px rgba(0,0,0,0.6);"/>
 </p>
-</div>
 
-<!-- GITHUB STATS GRID -->
+<!-- --------- Neon framed avatar (uses box-shadow glow) --------- -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/chayan2006" alt="avatar" width="170"
+       style="border-radius:50%; border:3px solid rgba(255,255,255,0.06); 
+              box-shadow: 0 0 12px #FF00FF, 0 0 30px #00FFFF, 0 0 60px rgba(255,0,255,0.12);"/>
+</p>
 
-<h2 align="center">💫 <span style="color:#F40CF4">System_Stats</span></h2>
+<!-- ===== neon divider (glowing gradient) ===== -->
+<hr style="height:4px;border:none;border-radius:4px;
+           background: linear-gradient(90deg, #00ffff, #7b2cff, #ff00ff);
+           box-shadow: 0 0 16px #00ffff, 0 0 28px #7b2cff, 0 0 40px #ff00ff; margin:28px 0;" />
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dchayan2006%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DF40CF4%26icon_color%3D00FFFF" height="160" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dchayan2006%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26date_format%3Dj%2520M%255B%2520Y%255D%26ring%3DF40CF4%26fire%3DF40CF4%26currStreakLabel%3D00FFFF" height="160" />
-</div>
+<!-- ========== ABOUT ========== -->
+<h2 align="center" style="color:#ff99ff">💜 About Me — Neon Edition</h2>
 
+<p align="center" style="color:#dfefff; background:#050208; padding:12px; border-radius:8px; max-width:900px; margin:auto;">
+  ⚡ <strong>Chayan Khatua</strong> ( <em>chayan2006</em> ) — Aspiring Full-Stack & AI developer.  
+  Passionate about Python, Web dev (HTML → CSS → JS), and futuristic interfaces.  
+  Always learning — building small projects & experiments with neon aesthetics.
+</p>
 
+<!-- ===== neon divider ===== -->
+<hr style="height:3px;border:none;border-radius:3px;
+           background: linear-gradient(90deg, #ff00ff 0%, #00ffff 50%, #7b2cff 100%);
+           box-shadow: 0 0 10px #ff00ff, 0 0 25px #00ffff; margin:22px 0;" />
 
+<!-- ===== Tech badges (neon colors) ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF00FF" alt="github"/>
+</p>
 
+<!-- ===== neon divider ===== -->
+<hr style="height:3px;border:none;border-radius:3px;
+           background: linear-gradient(90deg, #00ffff, #ff00ff);
+           box-shadow: 0 0 14px #00ffff, 0 0 30px #ff00ff; margin:20px 0;" />
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dchayan2006%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FFFF%26text_color%3Dc9d1d9" height="160" />
-</div>
+<!-- ===== GitHub cards (dark theme) ===== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight" height="160" alt="github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight" height="160" alt="streak"/>
+</p>
 
-<!-- ROADMAP & LEARNING -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight" alt="top langs"/>
+</p>
 
-<table align="center" border="0">
-<tr>
-<td valign="top" width="45%">
-<h3>🎯 <span style="color:#00FFFF">Currently_Learning</span></h3>
-<ul>
-<li>🚀 Python Loops & OOP</li>
-<li>🎨 CSS / Web Styling</li>
-<li>🛠 Git & GitHub Workflows</li>
-<li>🌐 Fullstack Roadmap</li>
+<!-- ===== neon divider ===== -->
+<hr style="height:3px;border:none;border-radius:3px;
+           background: linear-gradient(90deg, #7b2cff, #00ffff);
+           box-shadow: 0 0 12px #7b2cff, 0 0 26px #00ffff; margin:20px 0;" />
+
+<!-- ===== Currently learning & roadmap ===== -->
+<h3 align="center" style="color:#d0f7ff">🎯 Currently Learning</h3>
+<ul style="max-width:760px; margin:auto; color:#bfefff">
+  <li>Python Loops & OOP — strengthening fundamentals</li>
+  <li>CSS & Web Styling — neon UI practice</li>
+  <li>Git & GitHub workflows</li>
+  <li>Machine Learning basics — future roadmap</li>
 </ul>
-</td>
-<td valign="top" width="45%">
-<h3>🚀 <span style="color:#F40CF4">Future_Roadmap</span></h3>
-<ul>
-<li>👾 Build a Cyberpunk Portfolio</li>
-<li>🐍 Python Mini-Game Projects</li>
-<li>🤖 Machine Learning Basics</li>
-<li>🧠 AI-Powered Tools</li>
+
+<h3 align="center" style="color:#f4c2ff">🚀 Roadmap</h3>
+<ul style="max-width:760px; margin:auto; color:#bfefff">
+  <li>Build a neon-themed portfolio website</li>
+  <li>Create Python mini-projects and utilities</li>
+  <li>Deploy small full-stack apps</li>
+  <li>Start ML projects & tutorials</li>
 </ul>
-</td>
-</tr>
-</table>
 
-<!-- NEON CONTRIBUTION GRAPH -->
+<!-- ===== neon divider ===== -->
+<hr style="height:4px;border:none;border-radius:4px;
+           background: linear-gradient(90deg, #00ffff, #ff00ff, #7b2cff);
+           box-shadow: 0 0 18px #00ffff, 0 0 30px #ff00ff; margin:28px 0;" />
 
-<div align="center">
-<h2>🔥 <span style="color:#F40CF4">Netrunner</span> <span style="color:#00FFFF">Activity</span></h2>
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dchayan2006%26bg_color%3D0d1117%26color%3DF40CF4%26line%3D00FFFF%26point%3DFFFFFF%26hide_border%3Dtrue" width="100%" />
-</div>
+<!-- ===== Contact ===== -->
+<h3 align="center" style="color:#fff0ff">📫 Connect</h3>
+<p align="center" style="color:#bfefff">
+  📧 Email: <strong>yourmail@gmail.com</strong> &nbsp; • &nbsp;
+  LinkedIn: <strong>your-link-here</strong> &nbsp; • &nbsp;
+  GitHub: <a href="https://github.com/chayan2006" style="color:#ff99ff">github.com/chayan2006</a>
+</p>
 
-<!-- CONNECT FOOTER -->
-
-<div align="center">
-<h3>📬 <span style="color:#00FFFF">Establish_Connection</span></h3>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/chayan2006">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-
-
-
-
-
-
-<img src="https://img.shields.io/badge/Made%20With%20💜%20in%20the%20Cyberverse-FF00FF?style=for-the-badge&labelColor=000000" />
-
-</div>
+<!-- ===== final neon footer ===== -->
+<p align="center" style="margin-top:28px;">
+  <small style="color:#00ffcc; background:#001011; padding:8px 14px; border-radius:10px;">
+    ✨ Made with neon energy — keep building & stay curious ✨
+  </small>
+</p>
