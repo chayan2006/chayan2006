@@ -1,4 +1,4 @@
-<!-- ================== CYBER NEON PROFILE README (LOCAL STREAK) ================== -->
+<!-- ================== CYBER NEON PROFILE README (LOCAL STREAK FIX) ================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=FF00FF&center=true&vCenter=true&width=820&lines=⚡+Chayan+Khatua+%7C+chayan2006+⚡;Full-Stack+%2F+AI+%2F+Cyber+Learner;Hack+the+web+with+neon+vibes...+💜" alt="typing" />
@@ -35,7 +35,7 @@ Aspiring Full-Stack & AI developer. Passionate about Python, Web dev (HTML → C
 ---
 
 ## 📈 GitHub Stats & Contribution (Local streak image)
-> The streak image is saved in this repo at `assets/streak.png` and updated by a scheduled GitHub Action for stability.
+> The streak image is saved in this repo at `assets/streak.png` and updated by a scheduled GitHub Action for long-term stability.
 
 <p align="center">
   <!-- local streak image: served from your repo for reliability -->
