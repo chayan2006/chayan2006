@@ -1,79 +1,89 @@
-<!-- ================== CYBER NEON PROFILE README (LOCAL STREAK FIX) ================== -->
-
+<!-- =============== ANIMATED BANNER =============== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=FF00FF&center=true&vCenter=true&width=820&lines=⚡+Chayan+Khatua+%7C+chayan2006+⚡;Full-Stack+%2F+AI+%2F+Cyber+Learner;Hack+the+web+with+neon+vibes...+💜" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Chayan+Khatua!;Aspiring+AI+%26+Full+Stack+Developer;Python+%7C+HTML+%7C+Future+ML+Engineer;Welcome+to+my+GitHub+Profile!+🌟" />
 </p>
 
+<!-- =============== PROFILE LOGO =============== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vCve/giphy.gif" alt="glitch" width="560" style="border-radius:12px; box-shadow:0 6px 30px rgba(0,0,0,0.6);"/>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/chayan2006" alt="avatar" width="170"
-       style="border-radius:50%; border:3px solid rgba(255,255,255,0.06); 
-              box-shadow: 0 0 12px #FF00FF, 0 0 30px #00FFFF, 0 0 60px rgba(255,0,255,0.12);"/>
-</p>
-
-<hr style="height:4px;border:none;border-radius:4px;
-           background: linear-gradient(90deg, #00ffff, #7b2cff, #ff00ff);
-           box-shadow: 0 0 16px #00ffff, 0 0 28px #7b2cff, 0 0 40px #ff00ff; margin:28px 0;" />
-
-## 💜 About Me
-**Chayan Khatua** — `chayan2006`  
-Aspiring Full-Stack & AI developer. Passionate about Python, Web dev (HTML → CSS → JS) and neon UI experiments.
-
----
-
-## ⚙ Tech & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF00FF"/>
+  <img src="https://avatars.githubusercontent.com/chayan2006" width="150" style="border-radius:50%;" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Contribution (Local streak image)
-> The streak image is saved in this repo at `assets/streak.png` and updated by a scheduled GitHub Action for long-term stability.
+# 🌙 About Me  
+🌐 **Aspiring Full-Stack Developer & Future AI Engineer**  
+🔥 Passionate about Python, Web Development, Machine Learning & real-world projects  
+🚀 Focused on consistency, growth & hands-on learning  
+
+---
+
+# 🛠️ Tech Stack & Tools  
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙ Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=orange)
+
+---
+
+# 📈 GitHub Statistics  
 
 <p align="center">
-  <!-- local streak image: served from your repo for reliability -->
-  <img src="./assets/streak.png" alt="streak" style="max-width:360px; box-shadow:0 8px 30px rgba(0,0,0,0.6); border-radius:8px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight" height="160" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
-- Python Loops & OOP  
-- CSS & Web Styling (neon UI)  
-- Git & GitHub workflows  
-- Machine Learning basics
+# 🔥 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/3V2.gif" width="500"/> <!-- fun coding gif -->
+</p>
 
 ---
 
-## 🚀 Roadmap
-- Build neon portfolio website  
+# 🎯 Currently Learning  
+- Python Loops  
+- Python OOP  
+- CSS & Web Styling  
+- Git + GitHub  
+- Full-Stack Roadmap (HTML → CSS → JS)  
+
+---
+
+# 🚀 Future Roadmap  
+- Build portfolio website  
 - Create Python mini-projects  
-- Deploy full-stack apps  
-- Start ML projects
+- Start Machine Learning basics  
+- Work on AI-powered apps  
+- Full-stack development projects  
 
 ---
 
-## 📫 Contact
-- Email: **yourmail@gmail.com** (replace)  
-- LinkedIn: **your-link-here** (replace)  
-- GitHub: https://github.com/chayan2006
+# 📬 Connect With Me  
+📧 Email: **yourmail@gmail.com**  
+💼 LinkedIn: *your link here*  
+🐙 GitHub: **https://github.com/chayan2006**
 
 ---
 
 <p align="center">
-  <small style="color:#00ffcc; background:#001011; padding:8px 14px; border-radius:10px;">
-    ✨ Made with neon energy — keep building & stay curious ✨
-  </small>
+  <img src="https://img.shields.io/badge/Made%20With-Love-%23ff0055?style=for-the-badge" />
 </p>
+
+<p align="center"><b>⭐ If you like my profile, don't forget to star my repositories!</b></p>
+convert thisCyberpunk Theme Verasiom 
+
