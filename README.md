@@ -22,37 +22,3 @@ handle: chayan2006
 alias: Chayan Khatua
 focus: Python | Web (HTML → CSS → JS) | Future ML
 mood: matrix.green / hacker.vibes
-⚙️ Tech & Tools (Matrix Badges)
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </p>
-📊 GitHub (Dark / Hacker Cards)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=dark_green&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=dark-green" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=dark_green&hide_border=true" /> </p>
-🔥 Contribution Activity (Matrix Graph)
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=react-dark&hide_border=true" /> </p> <p align="center"> <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="420" alt="matrix-rain-gif"/> </p>
-🎯 Current Focus
-
-✅ HTML — Completed
-
-🔁 Python Loops — Learning
-
-🧱 Python OOP — Learning
-
-🎨 CSS — Next
-
-🤖 ML basics — Roadmap
-💡 Projects / Mini-Labs
-
-Static webpages (landing pages, resume)
-
-HTML practice & small UI structures
-
-Python practice snippets & problem solving
-
-(Upcoming) CSS-styled pages & combined HTML/CSS projects
-📫 Connect / Contact
-
-GitHub: https://github.com/chayan2006
-
-Email: yourmail@gmail.com
- (replace with your email)
-
-LinkedIn: (add your link)
