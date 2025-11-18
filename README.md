@@ -1,89 +1,141 @@
-<!-- =============== ANIMATED BANNER =============== -->
+**<!-- ========================================================= -->
+<!-- 🔥 ANIMATED HEADER BANNER -->
+<!-- ========================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Chayan+Khatua!;Aspiring+AI+%26+Full+Stack+Developer;Python+%7C+HTML+%7C+Future+ML+Engineer;Welcome+to+my+GitHub+Profile!+🌟" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Chayan+Khatua!;AI+%26+Full+Stack+Developer;Python+|+HTML+|+CSS+|+JavaScript;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Universe+🌌">
 </p>
 
-<!-- =============== PROFILE LOGO =============== -->
+<!-- PROFILE PIC -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/chayan2006" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/chayan2006" width="160" style="border-radius:50%; box-shadow: 0 0 20px #00eaff;">
 </p>
 
----
-
-# 🌙 About Me  
-🌐 **Aspiring Full-Stack Developer & Future AI Engineer**  
-🔥 Passionate about Python, Web Development, Machine Learning & real-world projects  
-🚀 Focused on consistency, growth & hands-on learning  
-
----
-
-# 🛠️ Tech Stack & Tools  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙ Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=orange)
-
----
-
-# 📈 GitHub Statistics  
-
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/chayan2006"><img src="https://img.shields.io/badge/GitHub-Chayan-000?style=for-the-badge&logo=github"></a>
+  <a href="mailto:chayankhatua2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-# 🔥 Contribution Graph  
+# 🌙 **About Me**
+🌟 Passionate **Full-Stack Developer & Future AI Engineer**  
+💻 I create **AI models**, **ML projects**, and **dynamic web apps**  
+🏆 Hackathon Winner — *Movie Recommendation System*  
+🚀 On a journey to master **AI + ML + Web Dev**
+
+---
+
+# 🛠️ **Tech Stack**
+
+## 💻 **Languages**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=react-dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" height="70">
 </p>
 
+## ⚙ **Tools & Platforms**
 <p align="center">
-  <img src="https://i.gifer.com/3V2.gif" width="500"/> <!-- fun coding gif -->
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,stackoverflow" height="70">
 </p>
 
 ---
 
-# 🎯 Currently Learning  
-- Python Loops  
+# 🚀 **Projects Showcase**  
+> ✨ *Aesthetic badges + icons added!*
+
+### 🩺 **Triage Age Bot (Health AI Bot)**
+![Badge](https://img.shields.io/badge/AI%20Project-Health-blue?style=flat-square)
+- Smart triage & basic health guidance  
+- Python + rule-based decision system  
+
+### 🎬 **Movie Recommendation System — 🥇 Hackathon Winner**  
+![Badge](https://img.shields.io/badge/ML-Content_Based_Model-orange?style=flat-square)
+- Achieved **1st Position**  
+- Recommends movies using similarity & features  
+
+### 🚦 **Smart Traffic Control System**
+![Badge](https://img.shields.io/badge/IOT%20%2B%20AI-Traffic-green?style=flat-square)
+- Traffic density detection  
+- Optimization of signal timings  
+
+### 📊 **Daily Life Tracker**
+![Badge](https://img.shields.io/badge/Utility-Productivity-yellow?style=flat-square)
+- Habit & routine tracker  
+
+### 😊 **Sentiment Analysis**
+![Badge](https://img.shields.io/badge/NLP-Sentiment-blueviolet?style=flat-square)
+- POS / NEG / NEUTRAL classification  
+- Python NLP techniques  
+
+### 🌐 **Portfolio Website**
+![Badge](https://img.shields.io/badge/Web-Portfolio-lightgrey?style=flat-square)
+- Responsive, aesthetic design  
+- HTML + CSS + JS  
+
+---
+
+# 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&border_radius=15" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&border_radius=15" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&border_radius=15" height="150" />
+</p>
+
+---
+
+# 🔥 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# ⚡ **Dynamic GitHub Widgets**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayan2006&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 **Currently Learning**
 - Python OOP  
-- CSS & Web Styling  
-- Git + GitHub  
-- Full-Stack Roadmap (HTML → CSS → JS)  
+- Web Styling (CSS3)  
+- JavaScript  
+- Git & GitHub  
+- Basics of Machine Learning  
 
 ---
 
-# 🚀 Future Roadmap  
-- Build portfolio website  
-- Create Python mini-projects  
-- Start Machine Learning basics  
-- Work on AI-powered apps  
-- Full-stack development projects  
+# 🌌 **Future Goals**
+- Build advanced portfolio  
+- ML models (Regression, NLP, Classification)  
+- MERN Stack  
+- Create AI-powered web apps  
+- Publish open-source projects  
 
 ---
 
-# 📬 Connect With Me  
-📧 Email: **yourmail@gmail.com**  
-💼 LinkedIn: *your link here*  
-🐙 GitHub: **https://github.com/chayan2006**
+# 📬 **Connect With Me**
+
+📧 **Email:** *chayankhatua2006@gmail.com*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/chayan-khatua-8880851bb/*  
+🐙 **GitHub:** *https://github.com/chayan2006*
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Love-%23ff0055?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20With-❤️%20Love%20%26%20Code-ff0055?style=for-the-badge">
 </p>
 
-<p align="center"><b>⭐ If you like my profile, don't forget to star my repositories!</b></p>
-convert thisCyberpunk Theme Verasiom 
-
+<p align="center"><b>⭐ If you like my work, consider starring my repositories!</b></p>
+**
