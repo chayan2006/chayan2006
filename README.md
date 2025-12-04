@@ -1,147 +1,114 @@
-<!-- ========================================================= -->
-<!-- 🔥 ANIMATED HEADER BANNER -->
-<!-- ========================================================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Chayan+Khatua!;AI+%26+Full+Stack+Developer;Python+|+HTML+|+CSS+|+JavaScript;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Universe+🌌">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&pause=1000&color=39F2FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Chayan+Khatua+👋;Full+Stack+Developer+%26+AI+Enthusiast;Python+|+HTML+|+CSS+|+JavaScript;Building+the+Future+with+Code+🌌" alt="Typing SVG" />
+</div>
 
-<!-- PROFILE PIC -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/chayan2006" width="160" style="border-radius:50%; box-shadow: 0 0 20px #00eaff;">
-</p>
-
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://github.com/chayan2006"><img src="https://img.shields.io/badge/GitHub-Chayan-000?style=for-the-badge&logo=github"></a>
-  <a href="mailto:chayankhatua2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
-
----
-
-# 🌙 **About Me**
-🌟 Passionate **Full-Stack Developer & Future AI Engineer**  
-💻 I create **AI models**, **ML projects**, and **dynamic web apps**  
-🏆 Hackathon Winner — *Movie Recommendation System*  
-🚀 On a journey to master **AI + ML + Web Dev**
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/chayan2006" width="150" style="border-radius: 50%; border: 4px solid #39F2FF; box-shadow: 0 0 25px #39F2FF;">
+  <br/><br/>
+  
+  <a href="https://github.com/chayan2006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:chayankhatua2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
-# 🛠️ **Tech Stack**
+### <div align="center">🌙 **About Me**</div>
+<div align="center">
+  
+> 🌟 **Full-Stack Developer & Aspiring AI Engineer** > 💻 Crafting **Smart AI models**, **ML Systems**, and **Dynamic Web Apps** > 🏆 **Hackathon Winner:** *Movie Recommendation System* > 🚀 Focused on the intersection of **Artificial Intelligence** and **Web Technologies**
 
-## 💻 **Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" height="70">
-</p>
-
-## ⚙ **Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma,stackoverflow" height="70">
-</p>
+</div>
 
 ---
 
-# 🚀 **Projects Showcase**  
-> ✨ *Aesthetic badges + icons added!*
+### <div align="center">🛠️ **Tech Stack & Arsenal**</div>
 
-### 🩺 **Triage Age Bot (Health AI Bot)**
-![Badge](https://img.shields.io/badge/AI%20Project-Health-blue?style=flat-square)
-- Smart triage & basic health guidance  
-- Python + rule-based decision system  
+<div align="center">
 
-### 🎬 **Movie Recommendation System — 🥇 Hackathon Winner**  
-![Badge](https://img.shields.io/badge/ML-Content_Based_Model-orange?style=flat-square)
-- Achieved **1st Position**  
-- Recommends movies using similarity & features  
+| **Languages** | **Tools & Platforms** | **AI & Special** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,html,css,js" height="50"/> | <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,figma" height="50"/> | <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30"/> <br> <img src="https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/> |
 
-### 🚦 **Smart Traffic Control System**
-![Badge](https://img.shields.io/badge/IOT%20%2B%20AI-Traffic-green?style=flat-square)
-- Traffic density detection  
-- Optimization of signal timings  
-
-### 📊 **Daily Life Tracker**
-![Badge](https://img.shields.io/badge/Utility-Productivity-yellow?style=flat-square)
-- Habit & routine tracker  
-
-### 😊 **Sentiment Analysis**
-![Badge](https://img.shields.io/badge/NLP-Sentiment-blueviolet?style=flat-square)
-- POS / NEG / NEUTRAL classification  
-- Python NLP techniques  
-
-### 🌐 **Portfolio Website**
-![Badge](https://img.shields.io/badge/Web-Portfolio-lightgrey?style=flat-square)
-- Responsive, aesthetic design  
-- HTML + CSS + JS  
+</div>
 
 ---
 
-# 📊 **GitHub Analytics**
+### <div align="center">🚀 **Projects Showcase**</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&border_radius=15" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&border_radius=15" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&border_radius=15" height="150" />
-</p>
-
----
-
-# 🔥 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=react-dark&hide_border=true&area=true" />
-</p>
+| 📂 **Project** | 🛠️ **Tech Stack** | 📝 **Description** |
+|:---|:---|:---|
+| **🩺 Triage Age Bot** <br> *(Health AI)* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Smart triage system offering basic health guidance using rule-based decisions. |
+| **🎬 Movie Recommender** <br> *(🥇 Hackathon Winner)* | ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square) | Content-based filtering model that recommends movies based on features and similarity. |
+| **🚦 Smart Traffic System** <br> *(IoT + AI)* | ![IoT](https://img.shields.io/badge/IoT-Embed-blue?style=flat-square) | Detects traffic density to optimize signal timings and reduce congestion. |
+| **📊 Daily Life Tracker** <br> *(Productivity)* | ![Utility](https://img.shields.io/badge/Utility-App-yellow?style=flat-square) | A robust habit and routine tracker to manage daily productivity. |
+| **😊 Sentiment Analysis** <br> *(NLP)* | ![NLP](https://img.shields.io/badge/NLP-TextBlob-blueviolet?style=flat-square) | Classifies text as POS/NEG/NEUTRAL using Python Natural Language Processing. |
+| **🌐 Portfolio Website** <br> *(Personal)* | ![Web](https://img.shields.io/badge/HTML5-CSS3-orange?style=flat-square) | Responsive, aesthetically designed personal portfolio site. |
 
 ---
 
-# 🐍 **Contribution Snake Animation**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+### <div align="center">📊 **GitHub Analytics**</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&border_radius=10&bg_color=00000000&hide_border=false" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&border_radius=10&bg_color=00000000&hide_border=false" width="400" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&border_radius=10&bg_color=00000000&hide_border=false" width="820" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 ---
 
-# ⚡ **Dynamic GitHub Widgets**
+### <div align="center">⚡ **Activity & Trophies**</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayan2006&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-# 🎯 **Currently Learning**
-- Python OOP  
-- Web Styling (CSS3)  
-- JavaScript  
-- Git & GitHub  
-- Basics of Machine Learning  
+### <div align="center">🎯 **Learning & Goals**</div>
+
+<div align="center">
+
+| **Currently Learning** 🎓 | **Future Goals** 🌌 |
+|:---|:---|
+| 🐍 **Python OOP** | 💼 **Build Advanced Portfolio** |
+| 🎨 **Web Styling (CSS3)** | 🤖 **Master ML Algorithms (NLP/Regression)** |
+| ⚡ **JavaScript** | ⚛️ **MERN Stack Development** |
+| 🐙 **Git & GitHub** | 🧠 **Deploy AI-Powered Web Apps** |
+
+</div>
 
 ---
 
-# 🌌 **Future Goals**
-- Build advanced portfolio  
-- ML models (Regression, NLP, Classification)  
-- MERN Stack  
-- Create AI-powered web apps  
-- Publish open-source projects  
-
----
-
-# 📬 **Connect With Me**
-
-📧 **Email:** *chayankhatua2006@gmail.com*  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/chayan-khatua-8880851bb/*  
-🐙 **GitHub:** *https://github.com/chayan2006*
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-❤️%20Love%20%26%20Code-ff0055?style=for-the-badge">
-</p>
-
-<p align="center"><b>⭐ If you like my work, consider starring my repositories!</b></p>
+<div align="center">
+  <p><b>📫 Connect with me!</b></p>
+  <p>
+    <a href="mailto:chayankhatua2006@gmail.com">chayankhatua2006@gmail.com</a> • 
+    <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/">LinkedIn</a>
+  </p>
+  <img src="https://img.shields.io/badge/Made%20With-❤️%20Love%20%26%20Python-39F2FF?style=for-the-badge">
+  <br/>
+  <i>⭐ If you like my work, don't forget to star my repositories!</i>
+</div>
