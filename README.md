@@ -67,7 +67,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
+      <!-- ✅ NEW WORKING STREAK URL -->
+      <img src="https://streak-stats.demolab.com/?user=chayan2006&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
