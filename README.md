@@ -58,22 +58,17 @@
 
 ### <div align="center">📊 **GitHub Analytics**</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true" width="400" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&hide_border=true" width="820" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=radical" alt="Chayan's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=radical" alt="Chayan's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=radical" alt="Chayan's Top Langs" />
+</p>
 
 <br/>
 
@@ -85,11 +80,9 @@
 
 ### <div align="center">⚡ **Activity & Trophies**</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&row=1&column=7" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayan2006&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=radical&no-frame=true" alt="Chayan's Trophies" />
+</p>
 
 ---
 
