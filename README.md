@@ -22,7 +22,10 @@
 ### <div align="center">🌙 **About Me**</div>
 <div align="center">
   
-> 🌟 **Full-Stack Developer & Aspiring AI Engineer** > 💻 Crafting **Smart AI models**, **ML Systems**, and **Dynamic Web Apps** > 🏆 **Hackathon Winner:** *Movie Recommendation System* > 🚀 Focused on the intersection of **Artificial Intelligence** and **Web Technologies**
+> 🌟 **Full-Stack Developer & Aspiring AI Engineer**
+> <br>💻 Crafting **Smart AI models**, **ML Systems**, and **Dynamic Web Apps**
+> <br>🏆 **Hackathon Winner:** *Movie Recommendation System*
+> <br>🚀 Focused on the intersection of **Artificial Intelligence** and **Web Technologies**
 
 </div>
 
@@ -58,15 +61,18 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&border_radius=10&bg_color=00000000&hide_border=false" width="400" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&border_radius=10&bg_color=00000000&hide_border=false" width="400" />
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true" width="400" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&border_radius=10&bg_color=00000000&hide_border=false" width="820" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&hide_border=true" width="820" />
 </div>
 
 <br/>
