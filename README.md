@@ -1,12 +1,17 @@
-<h1 align="center">Hi, I'm Chayan Khatua 👋</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Python Programmer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Development+%7C+ML;Building+Real+World+Projects" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chayan2006&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
 <p align="center">
   <a href="https://github.com/chayan2006">
     <img src="https://img.shields.io/badge/GitHub-chayan2006-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:chayankhatua2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/">
     <img src="https://img.shields.io/badge/LinkedIn-Chayan%20Khatua-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -18,9 +23,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Student & Self-Taught Developer  
-- 💻 Interested in Full Stack Development and Artificial Intelligence  
+- 💻 Full Stack Development + Artificial Intelligence  
 - 🏆 Hackathon Winner – Movie Recommendation System  
-- 🚀 Passionate about building real-world projects
+- 🚀 Passionate about solving real-world problems with code
 
 ---
 
@@ -34,18 +39,27 @@
 
 ## 🚀 Projects
 
-| Project | Description |
-|--------|------------|
-| 🩺 Triage Age Bot | Rule-based health guidance system in Python |
-| 🎬 Movie Recommendation System | ML-based content recommendation |
-| 🚦 Smart Traffic System | IoT + AI based traffic signal automation |
-| 📊 Daily Life Tracker | Productivity & habit tracking app |
-| 😊 Sentiment Analysis | NLP text classification project |
-| 🌐 Portfolio Website | Responsive personal website |
+| Project | Tech | Description |
+|--------|------|------------|
+| 🩺 **Triage Age Bot** | Python | Rule-based health guidance system |
+| 🎬 **Movie Recommendation System** | ML | Content-based recommendation engine |
+| 🚦 **Smart Traffic System** | IoT + AI | Density-based signal control |
+| 📊 **Daily Life Tracker** | Python | Productivity & habit tracking |
+| 😊 **Sentiment Analysis** | NLP | Text polarity classification |
+| 🌐 **Portfolio Website** | HTML/CSS/JS | Personal responsive website |
 
 ---
 
-## 📊 GitHub Analytics
+## 📜 Certifications
+
+- ✅ Python Programming Certificate  
+- ✅ Web Development Fundamentals  
+- ✅ Machine Learning Basics (NLP & Regression)  
+- ✅ Git & GitHub Version Control
+
+---
+
+## 📊 GitHub Analytics (Network-Safe)
 
 <div align="center">
 
@@ -67,14 +81,15 @@
 
 ## 🎯 Currently Learning
 
-- Python OOP  
-- Advanced CSS & Responsive Design  
-- JavaScript DOM & APIs  
+- Python OOP & Data Structures  
+- Advanced CSS & Responsive UI  
+- JavaScript APIs & DOM  
+- Machine Learning Algorithms  
 - GitHub Collaboration
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 - 📧 Email: **chayankhatua2006@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/chayan-khatua-8880851bb/
