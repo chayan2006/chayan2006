@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Development+%7C+ML;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Development+%7C+Machine+Learning;Building+Real+World+Projects" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chayan2006&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=chayan2006&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Student & Self-Taught Developer  
-- 💻 Full Stack Development + Artificial Intelligence  
+- 💻 Focused on Full Stack Development and Artificial Intelligence  
 - 🏆 Hackathon Winner – Movie Recommendation System  
-- 🚀 Passionate about solving real-world problems with code
+- 🚀 Love building practical, real-world projects
 
 ---
 
@@ -37,16 +37,28 @@
 
 ---
 
-## 🚀 Projects
+## 📈 Skills (Progress Style)
 
-| Project | Tech | Description |
-|--------|------|------------|
-| 🩺 **Triage Age Bot** | Python | Rule-based health guidance system |
-| 🎬 **Movie Recommendation System** | ML | Content-based recommendation engine |
-| 🚦 **Smart Traffic System** | IoT + AI | Density-based signal control |
-| 📊 **Daily Life Tracker** | Python | Productivity & habit tracking |
-| 😊 **Sentiment Analysis** | NLP | Text polarity classification |
-| 🌐 **Portfolio Website** | HTML/CSS/JS | Personal responsive website |
+- **Python** ![](https://img.shields.io/badge/Level-85%25-brightgreen?style=flat-square)  
+- **HTML/CSS** ![](https://img.shields.io/badge/Level-80%25-green?style=flat-square)  
+- **JavaScript** ![](https://img.shields.io/badge/Level-70%25-yellowgreen?style=flat-square)  
+- **Machine Learning** ![](https://img.shields.io/badge/Level-65%25-yellow?style=flat-square)  
+- **Git & GitHub** ![](https://img.shields.io/badge/Level-75%25-green?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech | Link |
+|--------|------|------|
+| 🩺 **Triage Age Bot** | Python | https://github.com/chayan2006 |
+| 🎬 **Movie Recommendation System** | ML | https://github.com/chayan2006 |
+| 🚦 **Smart Traffic System** | IoT + AI | https://github.com/chayan2006 |
+| 📊 **Daily Life Tracker** | Python | https://github.com/chayan2006 |
+| 😊 **Sentiment Analysis** | NLP | https://github.com/chayan2006 |
+| 🌐 **Portfolio Website** | HTML/CSS/JS | https://github.com/chayan2006 |
+
+*(Replace links with exact repo links when ready.)*
 
 ---
 
