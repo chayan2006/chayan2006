@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Development+%7C+Machine+Learning;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Chayan+Khatua;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Development+%7C+Machine+Learning;Building+Real+World+Projects" />
 </div>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ---
 
-## 📈 Skills (Progress Style)
+## 📈 Skills
 
 - **Python** ![](https://img.shields.io/badge/Level-85%25-brightgreen?style=flat-square)  
 - **HTML/CSS** ![](https://img.shields.io/badge/Level-80%25-green?style=flat-square)  
@@ -51,12 +51,12 @@
 
 | Project | Tech | Link |
 |--------|------|------|
-| 🩺 **Triage Age Bot** | Python | https://github.com/chayan2006 |
-| 🎬 **Movie Recommendation System** | ML | https://github.com/chayan2006 |
-| 🚦 **Smart Traffic System** | IoT + AI | https://github.com/chayan2006 |
-| 📊 **Daily Life Tracker** | Python | https://github.com/chayan2006 |
-| 😊 **Sentiment Analysis** | NLP | https://github.com/chayan2006 |
-| 🌐 **Portfolio Website** | HTML/CSS/JS | https://github.com/chayan2006 |
+| 🩺 Triage Age Bot | Python | https://github.com/chayan2006 |
+| 🎬 Movie Recommendation System | ML | https://github.com/chayan2006 |
+| 🚦 Smart Traffic System | IoT + AI | https://github.com/chayan2006 |
+| 📊 Daily Life Tracker | Python | https://github.com/chayan2006 |
+| 😊 Sentiment Analysis | NLP | https://github.com/chayan2006 |
+| 🌐 Portfolio Website | HTML/CSS/JS | https://github.com/chayan2006 |
 
 *(Replace links with exact repo links when ready.)*
 
@@ -73,21 +73,13 @@
 
 ## 📊 GitHub Analytics (Network-Safe)
 
-<div align="center">
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayan2006&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayan2006&theme=tokyonight" />
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayan2006&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chayan2006&theme=tokyonight&utcOffset=5.5)
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayan2006&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chayan2006&theme=tokyonight&utcOffset=5.5" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayan2006&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayan2006&theme=tokyonight" />
-
-</div>
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayan2006&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayan2006&theme=tokyonight)
 
 ---
 
