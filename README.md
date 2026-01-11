@@ -74,21 +74,20 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
-
-
-## 🎯 Currently Learning
+ng
 
 - Python OOP & Data Structures  
 - Advanced CSS & Responsive UI  
