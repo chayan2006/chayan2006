@@ -71,17 +71,22 @@
 
 ---
 
-## 📊 GitHub Analytics (Network-Safe)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayan2006&theme=tokyonight)
+## 📊 GitHub Analytics
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayan2006&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chayan2006&theme=tokyonight&utcOffset=5.5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight" />
+</p>
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayan2006&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayan2006&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight" />
+</p>
+
+
 
 ## 🎯 Currently Learning
 
