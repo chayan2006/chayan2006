@@ -23,11 +23,16 @@
 
 ## 🏆 GitHub Trophies
 
+<!-- Primary mirror (volunteer-hosted, working as of 2025) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
-> ⚠️ *If trophies don't load, try opening your profile in a private/incognito window. The service can be slow on first load.*
+<!-- Fallback mirror — uncomment this and comment the above if the above stops loading:
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+-->
 
 ---
 
