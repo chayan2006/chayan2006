@@ -21,6 +21,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 > *Self-taught developer on a mission to build things that matter.*
@@ -86,6 +94,64 @@ Machine Learning █████████████████░░░░
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+---
+
+## 📉 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<details>
+<summary>⚙️ How to activate the Snake Animation (click to expand)</summary>
+
+<br/>
+
+**Step 1:** In your profile repo (`chayan2006/chayan2006`), create the file:
+`.github/workflows/snake.yml`
+
+**Step 2:** Paste this content into the file:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to **Actions tab → run the workflow manually once.**
+
+The snake SVG will now auto-update every 12 hours! 🎉
+
+</details>
 
 ---
 
