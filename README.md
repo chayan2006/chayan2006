@@ -24,8 +24,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
+
+> ⚠️ *If trophies don't load, try opening your profile in a private/incognito window. The service can be slow on first load.*
 
 ---
 
@@ -68,7 +70,7 @@
 | 😊 | **Sentiment Analysis** | NLP pipeline to classify emotions from text data | NLP · Python | [View →](https://github.com/chayan2006) |
 | 🌐 | **Portfolio Website** | Personal portfolio showcasing projects and skills | HTML · CSS · JS | [View →](https://github.com/chayan2006) |
 
-> 🔗 *Links will be updated with direct repo URLs soon.*
+> 🔗 *Replace links with exact repo URLs when ready.*
 
 ---
 
@@ -92,7 +94,7 @@ Machine Learning █████████████████░░░░
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,7 +102,7 @@ Machine Learning █████████████████░░░░
 ## 📉 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" />
 </p>
 
 ---
@@ -108,18 +110,22 @@ Machine Learning █████████████████░░░░
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <details>
-<summary>⚙️ How to activate the Snake Animation (click to expand)</summary>
+<summary>⚙️ One-time setup: How to activate the Snake Animation (click to expand)</summary>
 
 <br/>
 
 **Step 1:** In your profile repo (`chayan2006/chayan2006`), create the file:
 `.github/workflows/snake.yml`
 
-**Step 2:** Paste this content into the file:
+**Step 2:** Paste this content:
 
 ```yaml
 name: Generate Snake
@@ -147,9 +153,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Step 3:** Go to **Actions tab → run the workflow manually once.**
+**Step 3:** Go to **Actions tab → Run workflow manually once.**
 
-The snake SVG will now auto-update every 12 hours! 🎉
+✅ Done! The snake will auto-regenerate every 12 hours.
 
 </details>
 
