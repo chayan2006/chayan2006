@@ -1,4 +1,4 @@
-<!-- ANIMATED HEADER WAVE — zero setup, works immediately -->
+<!-- ANIMATED HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=120&section=header&text=Chayan%20Khatua&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
@@ -110,18 +110,68 @@ Machine Learning █████████████████░░░░
 
 ## 🌐 3D Contribution Calendar
 
-<!-- Zero setup — auto-generates from your public GitHub data -->
 <p align="center">
-  <img src="https://github-profile-3d-contrib.s3.amazonaws.com/chayan2006.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/chayan2006/chayan2006/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
 
-> ⚙️ *Want it auto-updated? Add this action: [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)*
+<details>
+<summary>⚙️ Setup for 3D Contribution Calendar (click to expand)</summary>
+
+<br/>
+
+**Step 1:** Create `.github/workflows/profile-3d-contrib.yml` in your profile repo with this content:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: GitHub-Profile-3D-Contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: chayan2006
+
+      - name: Commit & Push 3D SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update 3D contribution graph"
+          git push
+```
+
+**Step 2:** Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions** → Save.
+
+**Step 3:** Go to **Actions tab → GitHub-Profile-3D-Contrib → Run workflow** (manual trigger once).
+
+✅ Done! Updates every day at 18:00 UTC automatically.
+
+**Other SVG styles you can use instead:**
+- `profile-green-animate.svg` — 🟢 Classic green animated *(currently used)*
+- `profile-night-view.svg` — 🌙 Dark night theme
+- `profile-south-season-animate.svg` — 🌈 Seasonal colours animated
+
+</details>
 
 ---
 
-## 😄 Random Dev Joke — Because Why Not
+## 😄 Dev Joke of the Day
 
-<!-- Refreshes with a new joke every time someone views your profile -->
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 </p>
@@ -165,5 +215,5 @@ Machine Learning █████████████████░░░░
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
 
-<!-- ANIMATED FOOTER WAVE — zero setup, works immediately -->
+<!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=100&section=footer" width="100%"/>
