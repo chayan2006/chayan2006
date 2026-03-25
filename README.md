@@ -1,5 +1,8 @@
+<!-- ANIMATED HEADER WAVE — zero setup, works immediately -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=120&section=header&text=Chayan%20Khatua&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Dev+%7C+Machine+Learning;Turning+ideas+into+real-world+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Dev+%7C+Machine+Learning;Turning+ideas+into+real-world+projects" />
 </div>
 
 <p align="center">
@@ -23,16 +26,9 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- Primary mirror (volunteer-hosted, working as of 2025) -->
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
-
-<!-- Fallback mirror — uncomment this and comment the above if the above stops loading:
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
--->
 
 ---
 
@@ -112,57 +108,23 @@ Machine Learning █████████████████░░░░
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🌐 3D Contribution Calendar
 
+<!-- Zero setup — auto-generates from your public GitHub data -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/chayan2006/chayan2006/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-profile-3d-contrib.s3.amazonaws.com/chayan2006.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
 
-<details>
-<summary>⚙️ One-time setup: How to activate the Snake Animation (click to expand)</summary>
+> ⚙️ *Want it auto-updated? Add this action: [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)*
 
-<br/>
+---
 
-**Step 1:** In your profile repo (`chayan2006/chayan2006`), create the file:
-`.github/workflows/snake.yml`
+## 😄 Random Dev Joke — Because Why Not
 
-**Step 2:** Paste this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to **Actions tab → Run workflow manually once.**
-
-✅ Done! The snake will auto-regenerate every 12 hours.
-
-</details>
+<!-- Refreshes with a new joke every time someone views your profile -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+</p>
 
 ---
 
@@ -203,6 +165,5 @@ jobs:
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
 
-<p align="center">
-  ⭐ If something I built helped you, a star on the repo goes a long way — thank you!
-</p>
+<!-- ANIMATED FOOTER WAVE — zero setup, works immediately -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=100&section=footer" width="100%"/>
