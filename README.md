@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Chayan+Khatua;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Development+%7C+Machine+Learning;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Dev+%7C+Machine+Learning;Turning+ideas+into+real-world+projects" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chayan2006&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=chayan2006&label=Profile+Views&color=36BCF7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/chayan2006?label=Followers&style=flat-square&color=36BCF7" />
 </p>
 
 <p align="center">
   <a href="https://github.com/chayan2006">
-    <img src="https://img.shields.io/badge/GitHub-chayan2006-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-chayan2006-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:chayankhatua2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-chayankhatua2006-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chayan%20Khatua-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Chayan%20Khatua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -22,88 +23,109 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student & Self-Taught Developer  
-- 💻 Focused on Full Stack Development and Artificial Intelligence  
-- 🏆 Hackathon Winner – Movie Recommendation System  
-- 🚀 Love building practical, real-world projects
+> *Self-taught developer on a mission to build things that matter.*
+
+- 🎓 **Student & Self-Taught Developer** — constantly learning, constantly shipping
+- 💻 **Focus Areas:** Full Stack Web Development · Artificial Intelligence · IoT
+- 🏆 **Hackathon Winner** — built a Movie Recommendation System that took first place
+- 🤖 Passionate about applying **ML & NLP** to solve real-world problems
+- 🌱 Currently leveling up in **Advanced JavaScript** and **Deep Learning**
+- ⚡ Fun fact: I debug with print statements and I'm not ashamed
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode,figma&theme=dark" />
 </p>
 
----
-
-## 📈 Skills
-
-- **Python** ![](https://img.shields.io/badge/Level-85%25-brightgreen?style=flat-square)  
-- **HTML/CSS** ![](https://img.shields.io/badge/Level-80%25-green?style=flat-square)  
-- **JavaScript** ![](https://img.shields.io/badge/Level-70%25-yellowgreen?style=flat-square)  
-- **Machine Learning** ![](https://img.shields.io/badge/Level-65%25-yellow?style=flat-square)  
-- **Git & GitHub** ![](https://img.shields.io/badge/Level-75%25-green?style=flat-square)
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python · JavaScript · HTML · CSS |
+| **AI / ML** | Scikit-learn · NLP · Regression · Sentiment Analysis |
+| **Tools** | Git · GitHub · VS Code · Figma · Linux |
+| **Concepts** | OOP · Data Structures · REST APIs · DOM Manipulation |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Link |
-|--------|------|------|
-| 🩺 Triage Age Bot | Python | https://github.com/chayan2006 |
-| 🎬 Movie Recommendation System | ML | https://github.com/chayan2006 |
-| 🚦 Smart Traffic System | IoT + AI | https://github.com/chayan2006 |
-| 📊 Daily Life Tracker | Python | https://github.com/chayan2006 |
-| 😊 Sentiment Analysis | NLP | https://github.com/chayan2006 |
-| 🌐 Portfolio Website | HTML/CSS/JS | https://github.com/chayan2006 |
+| # | Project | Description | Tech | Repo |
+|---|---------|-------------|------|------|
+| 🩺 | **Triage Age Bot** | AI bot to assist with medical triage based on age and symptoms | Python | [View →](https://github.com/chayan2006) |
+| 🎬 | **Movie Recommendation System** | Hackathon-winning content-based recommendation engine | ML · Python | [View →](https://github.com/chayan2006) |
+| 🚦 | **Smart Traffic System** | Intelligent traffic management using IoT sensors and AI | IoT · AI | [View →](https://github.com/chayan2006) |
+| 📊 | **Daily Life Tracker** | Personal productivity and habit-tracking tool | Python | [View →](https://github.com/chayan2006) |
+| 😊 | **Sentiment Analysis** | NLP pipeline to classify emotions from text data | NLP · Python | [View →](https://github.com/chayan2006) |
+| 🌐 | **Portfolio Website** | Personal portfolio showcasing projects and skills | HTML · CSS · JS | [View →](https://github.com/chayan2006) |
 
-*(Replace links with exact repo links when ready.)*
+> 🔗 *Links will be updated with direct repo URLs soon.*
+
+---
+
+## 📈 Skill Levels
+
+```
+Python           ████████████████████░░░░  85%
+HTML / CSS       ████████████████████░░░░  80%
+Git & GitHub     ███████████████████░░░░░  75%
+JavaScript       ██████████████████░░░░░░  70%
+Machine Learning █████████████████░░░░░░░  65%
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Python Programming Certificate  
-- ✅ Web Development Fundamentals  
-- ✅ Machine Learning Basics (NLP & Regression)  
-- ✅ Git & GitHub Version Control
+| Certificate | Area |
+|------------|------|
+| ✅ Python Programming | Core Python & OOP |
+| ✅ Web Development Fundamentals | HTML, CSS, JavaScript |
+| ✅ Machine Learning Basics | NLP & Regression |
+| ✅ Git & GitHub Version Control | Collaboration & Workflow |
 
 ---
 
+## 🌱 Currently Learning
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2006&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-ng
-
-- Python OOP & Data Structures  
-- Advanced CSS & Responsive UI  
-- JavaScript APIs & DOM  
-- Machine Learning Algorithms  
-- GitHub Collaboration
+- 🔷 Advanced CSS & Responsive UI Design
+- 🔷 JavaScript APIs & Async Programming
+- 🔷 Machine Learning Algorithms (beyond basics)
+- 🔷 Python OOP & Data Structures (deeper dive)
+- 🔷 GitHub Actions & CI/CD workflows
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-- 📧 Email: **chayankhatua2006@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/chayan-khatua-8880851bb/
+<p align="center">
+  📧 <a href="mailto:chayankhatua2006@gmail.com"><strong>chayankhatua2006@gmail.com</strong></a>
+  &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/chayan-khatua-8880851bb/"><strong>LinkedIn</strong></a>
+  &nbsp;|&nbsp;
+  💻 <a href="https://github.com/chayan2006"><strong>GitHub</strong></a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+<p align="center">
+  ⭐ If something I built helped you, a star on the repo goes a long way — thank you!
 </p>
