@@ -1,8 +1,8 @@
-<!-- ANIMATED HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=120&section=header&text=Chayan%20Khatua&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=120&section=header&text=Chayan%20Khatua&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Python+%7C+Web+Dev+%7C+Machine+Learning;Turning+ideas+into+real-world+projects" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Chayan+Khatua+%F0%9F%91%8B;AI%2FML+Developer+%7C+Full-Stack+Engineer;Built+SehatAI+-+1st+Prize%2C+FMS+Hackathon+4.0;Now+competing+in+ISRO's+Bharatiya+Antariksh+Hackathon" />
 </div>
 
 <p align="center">
@@ -22,72 +22,71 @@
   </a>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_1st_Prize-FMS_Hackathon_4.0_(International)-FFD700?style=for-the-badge"/>
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=chayan2006&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <strong>I build AI-driven tools and full-stack apps — from a symptom-triage bot that won an international hackathon to production client sites — mostly with Python, React, and PyTorch.</strong>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-> *Self-taught developer on a mission to build things that matter.*
-
-- 🎓 **Student & Self-Taught Developer** — constantly learning, constantly shipping
-- 💻 **Focus Areas:** Full Stack Web Development · Artificial Intelligence · IoT
-- 🏆 **Hackathon Winner** — built a Movie Recommendation System that took first place
-- 🤖 Passionate about applying **ML & NLP** to solve real-world problems
-- 🌱 Currently leveling up in **Advanced JavaScript** and **Deep Learning**
-- ⚡ Fun fact: I debug with print statements and I'm not ashamed
+- 🎓 **B.Tech CSE (AI & ML)** @ Lovely Professional University — Batch 2025–2029
+- 🏆 **1st Prize, FMS Hackathon 4.0** (International) — built **SehatAI**, an AI bot that triages symptoms and tells you whether to see a doctor or handle it with self-care
+- 💼 Freelance full-stack developer @ **Stream Bird India** — shipped a client site that reached #1 on Google search · previously Business Analyst Intern @ Internwave Edtech
+- 🛰️ Currently building an exoplanet-detection model for ISRO's **Bharatiya Antariksh Hackathon 2025**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,git,github,linux,vscode&theme=dark" />
 </p>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python · JavaScript · HTML · CSS |
-| **AI / ML** | Scikit-learn · NLP · Regression · Sentiment Analysis |
-| **Tools** | Git · GitHub · VS Code · Figma · Linux |
-| **Concepts** | OOP · Data Structures · REST APIs · DOM Manipulation |
+| Area | Stack |
+|---|---|
+| **Languages** | Python · JavaScript |
+| **Web** | React · Node.js |
+| **AI / ML** | PyTorch · TensorFlow · local LLMs (Ollama + Phi-3) |
+| **Data** | SQL |
+| **Tools** | Git · GitHub · Linux · VS Code |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-OCI%20Data%20Science-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Gemini%20Certified-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| # | Project | Description | Tech | Repo |
-|---|---------|-------------|------|------|
-| 🩺 | **Triage Age Bot** | AI bot to assist with medical triage based on age and symptoms | Python | [View →](https://github.com/chayan2006) |
-| 🎬 | **Movie Recommendation System** | Hackathon-winning content-based recommendation engine | ML · Python | [View →](https://github.com/chayan2006) |
-| 🚦 | **Smart Traffic System** | Intelligent traffic management using IoT sensors and AI | IoT · AI | [View →](https://github.com/chayan2006) |
-| 📊 | **Daily Life Tracker** | Personal productivity and habit-tracking tool | Python | [View →](https://github.com/chayan2006) |
-| 😊 | **Sentiment Analysis** | NLP pipeline to classify emotions from text data | NLP · Python | [View →](https://github.com/chayan2006) |
-| 🌐 | **Portfolio Website** | Personal portfolio showcasing projects and skills | HTML · CSS · JS | [View →](https://github.com/chayan2006) |
+| Project | What it does | Stack | Highlight |
+|---|---|---|---|
+| 🩺 [**SehatAI**](https://github.com/chayan2006) | Assesses symptoms and tells you whether to see a doctor or handle it with self-care | Python, AI/ML | 🏆 1st Prize — FMS Hackathon 4.0 (Intl.) |
+| 🩸 [**Blood Donation Matcher**](https://github.com/chayan2006) | Finds and messages nearby donors when a hospital urgently needs blood | Python | Deployed |
+| 📧 [**AI Email Auto-Draft Responder**](https://github.com/chayan2006) | Drafts Gmail replies with a locally-hosted LLM — nothing leaves your machine | Gmail API, OAuth 2.0, Ollama (Phi-3) | MLH Fellowship code sample |
+| 🧘 [**Productive Life OS**](https://github.com/chayan2006) | Personal productivity app built around Japanese frameworks — Kaizen, Ikigai, 5S, Hansei, Shoshin | React, TypeScript, Zustand | In development |
+| 🛰️ [**Exoplanet Detection**](https://github.com/chayan2006) | Detects exoplanets from light-curve data for ISRO's Bharatiya Antariksh Hackathon 2025 | PyTorch | In progress |
 
-> 🔗 *Replace links with exact repo URLs when ready.*
-
----
-
-## 📈 Skill Levels
-
-```
-Python           ████████████████████░░░░  85%
-HTML / CSS       ████████████████████░░░░  80%
-Git & GitHub     ███████████████████░░░░░  75%
-JavaScript       ██████████████████░░░░░░  70%
-Machine Learning █████████████████░░░░░░░  65%
-```
+> 🔗 *Project links point to my GitHub profile for now — swapping in exact repo URLs as each one goes public.*
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Hackathons & Recognition
+
+- 🥇 **1st Prize** — FMS Hackathon 4.0 (International) — for SehatAI
+- 🥇 **1st Prize** — IGNITE Hackathon 2025
+- 🏅 **Finalist** — India Innovates 2026
+- 🛰️ **Competing** — Bharatiya Antariksh Hackathon 2025 (ISRO)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chayan2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
@@ -95,111 +94,21 @@ Machine Learning █████████████████░░░░
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayan2006&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=chayan2006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📉 Contribution Activity Graph
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayan2006&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" />
-</p>
-
----
-
-## 🌐 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chayan2006/chayan2006/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
-</p>
-
-<details>
-<summary>⚙️ Setup for 3D Contribution Calendar (click to expand)</summary>
-
-<br/>
-
-**Step 1:** Create `.github/workflows/profile-3d-contrib.yml` in your profile repo with this content:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: GitHub-Profile-3D-Contrib
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: chayan2006
-
-      - name: Commit & Push 3D SVG
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "Update 3D contribution graph"
-          git push
-```
-
-**Step 2:** Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions** → Save.
-
-**Step 3:** Go to **Actions tab → GitHub-Profile-3D-Contrib → Run workflow** (manual trigger once).
-
-✅ Done! Updates every day at 18:00 UTC automatically.
-
-**Other SVG styles you can use instead:**
-- `profile-green-animate.svg` — 🟢 Classic green animated *(currently used)*
-- `profile-night-view.svg` — 🌙 Dark night theme
-- `profile-south-season-animate.svg` — 🌈 Seasonal colours animated
-
-</details>
+- 📚 Strengthening core CS fundamentals — data structures, algorithms, discrete math
+- 🔬 A research direction in wearable cardiac-emergency detection (Healthcare AI)
+- 🤝 Applying to open-source fellowships — MLH Fellowship (Fall 2026), GSSoC 2026
+- 🧠 Long-term interest in agentic AI systems
 
 ---
 
-## 😄 Dev Joke of the Day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-</p>
-
----
-
-## 📜 Certifications
-
-| Certificate | Area |
-|------------|------|
-| ✅ Python Programming | Core Python & OOP |
-| ✅ Web Development Fundamentals | HTML, CSS, JavaScript |
-| ✅ Machine Learning Basics | NLP & Regression |
-| ✅ Git & GitHub Version Control | Collaboration & Workflow |
-
----
-
-## 🌱 Currently Learning
-
-- 🔷 Advanced CSS & Responsive UI Design
-- 🔷 JavaScript APIs & Async Programming
-- 🔷 Machine Learning Algorithms (beyond basics)
-- 🔷 Python OOP & Data Structures (deeper dive)
-- 🔷 GitHub Actions & CI/CD workflows
-
----
-
-## 📫 Let's Connect
+## 📫 Connect
 
 <p align="center">
   📧 <a href="mailto:chayankhatua2006@gmail.com"><strong>chayankhatua2006@gmail.com</strong></a>
@@ -209,11 +118,8 @@ jobs:
   💻 <a href="https://github.com/chayan2006"><strong>GitHub</strong></a>
 </p>
 
+<p align="center"><i>Open to internships & collaboration opportunities.</i></p>
+
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
-
-<!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=100&section=footer" width="100%"/>
